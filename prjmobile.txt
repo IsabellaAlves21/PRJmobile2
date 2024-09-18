@@ -1,0 +1,7 @@
+13:57 - feito a pasta "PRJmobile2"
+
+13:58 - para a criação da aplicação eu usei "npx create-expo-app *nome da pasta* -t" e setei no modo Blank
+
+14:02 - após a instalação do expo usei o comando npx expo start para iniciar o expo e iniciei o android studio
+
+14:07 - baixado os arquivos, editei o text para "Hello World!"
